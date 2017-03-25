@@ -11,6 +11,7 @@ ul li a {
 .sidebar {
   height: 87%;
   width: 20%;
-  background-color: e1bee7; }
+  background-color: e1bee7;
+  padding: 15px; }
 
 /*# sourceMappingURL=custom.css.map */
