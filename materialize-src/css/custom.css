@@ -8,12 +8,13 @@ ul li a {
 .dashboard {
   height: 100vh; }
 
-#vh {
-  height: 100vh; }
+#dashboardInner {
+  margin: 0;
+  padding: 0; }
 
-.sidebar {
+#sidebar {
   height: 87%;
-  width: 20%;
+  margin: 0;
   background-color: e1bee7;
   padding: 15px; }
 
