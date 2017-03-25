@@ -9,15 +9,22 @@ ul li a {
   height: 100vh; }
 
 .container {
-  width: 95%;
+  width: 85%;
   padding: 15px; }
 
 .card-panel {
   margin-top: 0; }
 
+.emoji {
+  width: 10%;
+  height: auto; }
+
 #dashboardInner {
   margin: 0;
   padding: 0; }
+
+#dropdownButton {
+  margin: 20px 30px; }
 
 #sidebar {
   height: 87%;
