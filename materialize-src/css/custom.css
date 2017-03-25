@@ -5,10 +5,19 @@ ul li a {
   height: 100%;
   padding: 10px 25px; }
 
+.sidebarText {
+  display: inline-block;
+  font-size: 1.2em;
+  vertical-align: middle;
+  padding-left: 10px; }
+
 .dashboard {
   height: 100vh; }
 
 .container {
+  width: 90%; }
+
+.containerInner {
   width: 85%;
   padding: 15px; }
 
@@ -16,8 +25,9 @@ ul li a {
   margin-top: 0; }
 
 .emoji {
-  width: 10%;
-  height: auto; }
+  width: 20%;
+  height: auto;
+  margin: 5px 20px; }
 
 #dashboardInner {
   margin: 0;
@@ -25,6 +35,9 @@ ul li a {
 
 #dropdownButton {
   margin: 20px 30px; }
+
+#minMargins {
+  margin: 5px; }
 
 #sidebar {
   height: 87%;
